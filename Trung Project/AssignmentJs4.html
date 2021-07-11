@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Assignment JS 4</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+</head>
+<body>
+<div class="container">
+<h1 style="color:#ff0000">Nhiệt độ: <span id="temp"></span><sup>o</sup>C</h1>
+<h1 style="color:#00ff29">Độ ẩm: <span id="hum"></span>%</h1>
+<h1 style="color:#0019ff">Gió: <span id="wind"></span>km/h</h1>
+<h1 style="color:#00c4ff">Thành Phố: <span id="city"></span></h1>
+<h2 style="color:#ff9900"> Chi Tiết: <span id="desc"></span></h2>
+</div>
+<script type="text/javascript" src="Js/jquery3.6.0.min.js"></script>
+<script type="text/javascript">
+  $.ajax({
+    url:"https://api.openweathermap.org/data/2.5/weather?q=hanoi,vietnam&&units=metric&appid=09a71427c59d38d6a34f89b47d75975c",
+    method: "GET",
+    success:function (rs) {
+      $("#temp").text(rs.main.temp);
+      $("#hum").text(rs.main.humidity);
+      $("#wind").text(rs.wind.speed);
+      $("#city").text(rs.name + "," + rs.sys.country);
+      for (var i = 0; i < rs.weather.length; i++) {
+        $("#desc").text(rs.weather[i].description);
+      }
+    }
+  })
+  </script>
+</body>
+</html>
