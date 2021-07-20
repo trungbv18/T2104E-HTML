@@ -1,0 +1,2429 @@
+Index: test2.html
+===================================================================
+diff --git a/test2.html b/test2.html
+deleted file mode 100644
+--- a/test2.html	(revision 174242b9dfc7e57abfc5b3a434975a8925f384c2)
++++ /dev/null	(revision 174242b9dfc7e57abfc5b3a434975a8925f384c2)
+@@ -1,110 +0,0 @@
+-<!DOCTYPE html>
+-<html lang="en">
+-<head>
+-    <meta charset="UTF-8">
+-    <title>Trang chủ</title>
+-</head>
+-<body>
+-<h1>Tuyển Việt Nam thắng nhọc U22 Việt Nam</h1>
+-<p>QUẢNG NINH-Đức Chinh ghi bàn quyết định giúp tuyển Việt Nam thắng U22 Việt Nam 3-2, <br/>
+-    trong trận giao hữu tối 23/12.</p>
+-<video controls
+-<source src="video/vn.mp4"/>
+-</video>
+-<p>Hai lần bị dẫn bàn, tuyển Việt Nam đều chỉ mất năm phút để gỡ hòa. Đến phút 78, tiền <br/>
+-    đạo Hà Đức Chinh tỏa sáng với cú xoay người sút nhanh ấn định tỷ số 3-2 cho tuyển<br/>
+-    Việt Nam, từ pha kiến tạo đẹp mắt của Phạm Xuân Mạnh.Thủ môn Nguyễn Văn Toản chơi<br/>
+-    tốt, nhưng có thể làm tốt hơn trong bàn thua này.
+-</p
+-<p>
+-    Tuyển Việt Nam và U22 không thể ra nước ngoài tập huấn hay mời đối thủ tới giao hữu<br/>
+-    vì Covid-19. Để rà soát lực lượng và kiểm nghiệm đội hình, HLV Park Hang-seo cho hai<br/>
+-    đội giao hữu với nhau hai trận. Trận đầu diễn ra ngày 23/12 tại Cẩm Phả, Quảng Ninh,<br/>
+-    và trận còn lại đá bốn ngày sau đó, tại Việt Trì, Phú Thọ.
+-</p>
+-<p>
+-    Đội tuyển Việt Nam dùng sơ đồ 5-3-2, với cặp tiền đạo Tuấn Tài và Văn Quyết. Phía sau,<br/>
+-    Phan Văn Long và Giang Trần Quách Tân chơi hộ công. Đội áo đỏ đối mặt khó khăn khi <br/>
+-    Tuấn Tài chấn thương và sớm rời sân nhường chỗ cho Hà Đức Chinh.
+-</p>
+-<p>
+-<figure>
+-    <img src="images/vn.jpg"/>
+-    <figcaption><i>Tiền vệ Hữu Thắng ghi một bàn, kiến tạo bàn còn lại cho U22 Việt Nam. Ảnh: Giang Huy</i>
+-    </figcaption>
+-</figure>
+-</p>
+-<p>
+-    Cách vận hành của U22 Việt Nam trong hiệp một hơi khác đội tuyển, ở tuyến giữa. Họ cũng<br/>
+-    đá năm hậu vệ, nhưng dùng hai tiền vệ trụ là Huỳnh Công Đến và Nguyễn Hữu Thắng. Hai<br/>
+-    cầu thủ nhỏ con này tự do di chuyển và thể hiện khả năng sáng tạo.
+-</p>
+-<p>
+-    <b>Trong thế trận giằng co, U22 Việt Nam bất ngờ mở tỷ số.</b>Từ pha rê bóng ở biên trái,<br/>
+-    Công Đến vượt qua Cao Văn Triền – tiền vệ trụ duy nhất của tuyển Việt Nam. Tận dụng<br/>
+-    khoảng trống Văn Triền để lại, Hữu Thắng dâng cao và đón đường chuyền của Công Đến.<br/>
+-    Hữu Thắng chọc khe một chạm đúng tầm Văn Đạt lao xuống đối mặt thủ môn Tấn Trường.<br/>
+-    Văn Đạt sút chân trái quá tầm với của thủ môn tuyển Việt Nam.
+-</p>
+-<p>
+-    Bị đàn em qua mặt, tuyển Việt Nam chỉ mất năm phút để gỡ hòa, dù pha bóng lập bập.<br/>
+-    Hậu vệ trái Vũ Xuân Cường sút xa từ biên trái tưởng như không nguy hiểm, nhưng bóng<br/>
+-    tới chân Đức Chinh ở cột hai. Đức Chinh sút lập bập, khiến bóng nảy ra đúng vị trí <br/>
+-    Văn Quyết lao vào. Đội trưởng tuyển Việt Nam dễ dàng đệm vào lưới trống gỡ 1-1
+-<figure>
+-    <img src="images/vn2.jpg"/>
+-    <figcaption><i>Văn Quyết (số 11) chia vui cùng Đức Chinh ở bàn gỡ hòa 1-1. Ảnh: Lâm Thỏa</i>
+-    </figcaption>
+-</figure>
+-</p>
+-<p>
+-    Văn Quyết còn để lại thêm dấu ấn với quả tạt cho Đức Chinh đỡ ngực và vô-lê hiểm hóc.<br/>
+-    Bóng đi về góc thấp nhưng Văn Toản đổ người hết cỡ vẫn đẩy được ra.
+-</p>
+-<p>
+-    Với những cầu thủ quen thuộc lần lượt vào sân trong hiệp hai, tuyển Việt Nam kiểm soát<br/>
+-    thế trận tốt hơn và tạo ra nhiều cơ hội. Nhưng, họ bất ngờ bị dẫn bàn sau pha xử lý thô <br/>
+-    của trung vệ Văn Việt, dẫn tới phạt đền. Anh đẩy sau Hữu Thắng trong cấm địa, dù tiền vệ<br/>
+-    U22 nhận bóng sát biên ngang. Chính Hữu Thắng đá phạt đền đánh lạc hướng thủ môn Tấn Trường.
+-</p>
+-<p>
+-    Tuyển Việt Nam cũng gỡ hòa nhanh từ quả phạt đền gây tranh cãi. Xuân Cường rê bóng qua thủ <br/>
+-    môn Văn Toản, rồi ngã chới với. Trọng tài cho rằng Văn Toản đã đưa tay ngáng chân Xuân Cường,<br/>
+-    nên thổi phạt đền. Lương Xuân Trường đá 11m về góc trái, Văn Toản bay người đúng hướng nhưng<br/>
+-    không cứu được bàn thua.
+-<figure>
+-    <img src="images/vn3.jpg"/>
+-    <figcaption>
+-        <i>Đức Chinh xoay người sút nhanh ấn định tỷ số 3-2. Trận này tiền đạo Phú Thọ ghi một bàn,kiến tạo một<br/>
+-            bàn cho Văn Quyết. Ảnh: Giang Huy
+-        </i>
+-    </figcaption>
+-</figure>
+-</p>
+-<p>
+-    Sức ép của tuyển Việt Nam chuyển thành bàn ở phút 78. Xuân Mạnh nhận bóng bên cánh phải, ngoặt <br/>
+-    vào và dùng chân trái chọc khe cho Đức Chinh. Tiền đạo Đà Nẵng xoay người sút chìm qua người <br/>
+-    Văn Toản. Một phút sau, hậu vệ Trần Văn Kiên có cơ hội đệm bóng cận thành từ đường căng ngang<br/>
+-    của Hoàng Đức, nhưng bóng chệch cột dọc.
+-</p>
+-<p>
+-    Hai đội sẽ nghỉ bốn ngày trước khi đá lại ở Việt Trì, Phú Thọ ngày 27/12.
+-</p>
+-<p>
+-<h3>Danh sách thi đấu</h3>
+-</p>
+-<p>
+-    Tuyển Việt Nam: Tấn Trường - Ngọc Đức (Văn Kiên 46), Thanh Hào, Văn Việt 1989 (Tấn Tài 59),  <br/>
+-    Minh Tùng, Xuân Cường (Trọng Hoàng 59) - Văn Long (Xuân Mạnh 74), Văn Triền (Xuân Trường 46), <br/>
+-    Quách Tân (Văn Toàn 46) - Tuấn Tài (Đức Chinh 12), Văn Quyết (Hoàng Đức 74).
+-</p>
+-<p>
+-    U22 Việt Nam: Văn Toản - Văn Minh, Thanh Bình, Bá Sang, Hoàng Hùng (Duy Kiên 72), <br/>
+-    Sỹ Hoàng (Quang Nho 77) - Công Đến (Văn Việt 1999 72), Hữu Thắng (Văn Hiếu 63) <br/>
+-    - Văn Đạt (Minh Bình 63), Việt Cường (Xuân Quyết 72), Xuân Tú (Thanh Minh 63)
+-</p>
+-<p>
+-<h3>Quang Dũng - Xuân Bình</h3>
+-</p>
+-</body>
+-</html>
+\ No newline at end of file
+Index: ../CodeTest/demoboottrap.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CodeTest/demoboottrap.html b/../CodeTest/demoboottrap.html
+new file mode 100644
+--- /dev/null	(date 1624156311783)
++++ b/../CodeTest/demoboottrap.html	(date 1624156311783)
+@@ -0,0 +1,156 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title><!DOCTYPE html>
++        <html lang="en">
++        <head>
++        <meta charset="UTF-8">
++        <title>Demo Bootstrap</title>
++    <!-- Latest compiled and minified CSS -->
++    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
++    <link rel="stylesheet" href="csscodetest/demobootstrap.css" type="text/css"/>
++</head>
++<body>
++<header class="header col-md-12">
++    <div class="container">
++        <div class="logo col-md-6">
++            <a href="/about-us.html">Genesis Framework</a>
++            <p>Support HTML5 & Responsive Design</p>
++        </div>
++        <div class="toplinks col-md-6">
++            <ul>
++                <li><a href="#">Sample</a> </li>
++                <li><a href="#">Layout</a> </li>
++                <li><a href="#">Template</a> </li>
++                <li><a href="#">Contact</a> </li>
++            </ul>
++        </div>
++    </div>
++</header>
++<nav class="nav col-md-12">
++    <div class="container">
++        <ul class="menu">
++            <li><a href="#">Category #1</a> </li>
++            <li><a href="#">Category #2</a> </li>
++            <li><a href="#">Category #3</a> </li>
++            <li><a href="#">Category #4</a> </li>
++        </ul>
++        <div class="mernu-right">
++            <a href="#">Get Genesis now</a>
++        </div>
++    </div>
++</nav>
++<section class="main col-md-12">
++    <div class="container">
++        <div class="row">
++            <article class="col-md-8 content">
++                <h1>Thêm 5 nhân viên viện Nhiệt đới mắc Covid-19</h1>
++                <p class="author">May 1, 2016 by <a href="#">Brian Gadner</a> </p>
++                <img src="images/dtvn.jpg"/>
++                <p class="entry">
++                    Sức khỏeTin tứcThứ ba, 15/6/2021, 18:04 (GMT+7)
++                    Thêm 5 nhân viên viện Nhiệt đới mắc Covid-19
++                    Giám đốc Sở Y tế TP HCM chiều 15/6 công bố Bệnh viện Bệnh Nhiệt đới TP HCM ghi nhận thêm 5 nhân viên mắc Covid-19, nâng tổng số ca nhiễm lên 60.
++
++                    Giám đốc Sở Y tế Nguyễn Tấn Bỉnh cho biết thông tin trên tại cuộc họp ban chỉ đạo phòng, chống Covid-19, chiều 15/6. Đây là những nhân viên nằm ở khu vực ngoài, không phải khu điều trị.
++
++                    Như vậy đến nay Bệnh viện Bệnh Nhiệt đới TP HCM ghi nhận 60 nhân viên dương tính. Những trường hợp này được điều tra truy vết, xét nghiệm trong số khoảng 1.000 nhân viên ghi nhận, sau khi phát hiện nhân viên phòng công nghệ thông tin của bệnh viện dương tính, ngày 11/6.
++
++                    Lực lượng chức năng xét nghiệm 107 trường hợp F1, phát hiện 7 ca dương tính, là những người trong ba gia đình.
++
++                    Bệnh viện còn 63 bệnh nhân đang điều trị nội trú ở các khoa khác, tất cả đã có kết quả âm tính nCoV. Khoảng 80 nhân viên y tế phụ trách điều trị Covid-19 không tiếp xúc với các nhân viên khoa phòng khác và cũng đã có kết quả xét nghiệm âm tính nCoV.
++
++                    Khu vực có nhân viên bị lây nhiễm là khu vực hành chính, trong đó có một người cư trú tại thị trấn Hóc Môn, huyện Hóc Môn và một người cư trú tại Block A1 chung cư Ehome 3 ở Bình Tân (nơi đang có ổ dịch. "Do đó, đánh giá ban đầu có thể nguồn lây từ ngoài đi vào bệnh viện", ông Bỉnh cho biết.
++                </p>
++            </article>
++            <aside class="col-md-4 sidebar">
++                <div class="box first">
++                    Email Newsletter
++                </div>
++                <div class="box social">
++                    Social icon
++                </div>
++                <div class="box search">
++                    Search
++                </div>
++            </aside>
++        </div>
++    </div>
++</section>
++<footer class="footer col-md-12">
++    <div class="container">
++        <div class="row">
++            <div class="col-md-6">
++                <div class="row">
++                    <div class="col-md-4"><div class="item">Box 1</div></div>
++                    <div class="col-md-4"><div class="item">Box 2</div> </div>
++                    <div class="col-md-4"><div class="item">Box 3</div> </div>
++                </div>
++            </div>
++            <div class="col-md-6">
++                <h1 class="text-warning">Danh sách sinh viên</h1>
++                <table class="table table-bordered table-striped table-hover">
++                    <thead>
++                    <th>Name</th>
++                    <th>Tel</th>
++                    <th>Address</th>
++                    </thead>
++                    <tbody>
++                    <tr class="success">
++                        <td>Nguyễn Văn An</td>
++                        <td>0987654321</td>
++                        <td>20 Hàm Nghi, Ba Đình, HN</td>
++                    </tr>
++                    <tr class="info">
++                        <td>Nguyễn Văn An</td>
++                        <td>0987654321</td>
++                        <td>20 Hàm Nghi, Ba Đình, HN</td>
++                    </tr>
++                    <tr class="warning">
++                        <td>Nguyễn Văn An</td>
++                        <td>0987654321</td>
++                        <td>20 Hàm Nghi, Ba Đình, HN</td>
++                    </tr>
++                    <tr class="danger">
++                        <td>Nguyễn Văn An</td>
++                        <td>0987654321</td>
++                        <td>20 Hàm Nghi, Ba Đình, HN</td>
++                    </tr>
++                    </tbody>
++                </table>
++            </div>
++            <div class="col-md-6">
++                <form action="#" method="POST">
++                    <div class="form-group">
++                        <label>Username</label>
++                        <input type="text" name="username" class="form-control"/>
++                    </div>
++                    <div class="form-group">
++                        <label>Email</label>
++                        <input type="email" name="email" class="form-control"/>
++                    </div>
++                    <div class="form-group">
++                        <label>Password</label>
++                        <input type="password" name="pwd" class="form-control"/>
++                    </div>
++                    <div class="form-group">
++                        <button type="submit" class="btn btn-primary">Submit</button>
++                        <button type="submit" class="btn btn-warning">Submit</button>
++                        <button type="submit" class="btn btn-success">Submit</button>
++                        <button type="submit" class="btn btn-danger">Submit</button>
++                        <button type="submit" class="btn btn-default">Submit</button>
++                    </div>
++                </form>
++            </div>
++        </div>
++
++    </div>
++</footer>
++</body>
++</html></title>
++</head>
++<body>
++
++</body>
++</html>
+\ No newline at end of file
+Index: ../CodeTest/csscodetest/demobootstrap.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CodeTest/csscodetest/demobootstrap.css b/../CodeTest/csscodetest/demobootstrap.css
+new file mode 100644
+--- /dev/null	(date 1624157190631)
++++ b/../CodeTest/csscodetest/demobootstrap.css	(date 1624157190631)
+@@ -0,0 +1,80 @@
++*{
++    margin:0;
++    padding: 0;
++}
++body{
++    font-size: 14px;
++    color:#333333;
++    font-family: 'Roboto', sans-serif;
++    font-weight: 400;
++    background-color: #ff0000;
++}
++.header{
++    background-color: #ffffff;
++    border-bottom: 1px solid #aabbcc;
++    padding: 20px 0;
++}
++.logo a{ /* thẻ a nằm trong khu vực của 1 phần tử có class là logo */
++    font-size: 28px;
++    color: #222222;
++    text-decoration: none;
++    font-weight: 700;
++}
++.logo p{
++    font-size: 15px;
++    color: #444444;
++}
++.toplinks ul{
++    float: right;
++}
++.toplinks li{
++    float: left;
++    list-style: none;
++    margin-left: 20px;
++}
++.toplinks  a{
++    color: #222222;
++    font-weight: 500;
++    text-decoration: none;
++    line-height: 52px;
++}
++.nav{
++    background-color: #ffffff;
++    padding: 20px 0;
++    border-bottom: 1px solid #aabbcc;
++}
++.menu{
++    float: left;
++}
++.menu li{
++    float: left;
++    list-style: none;
++    margin-right: 25px;
++}
++.menu li a{
++    font-size: 15px;
++    color: #222222;
++    font-weight: 500;
++    text-decoration: none;
++}
++.mernu-right{
++    float: right;
++}
++.mernu-right a{
++    font-size: 15px;
++    color: #222222;
++    font-weight: 500;
++    text-decoration: none;
++}
++.sidebar .box{
++    float: left;
++    width: calc(100% - 60px); /* 100% * (kích thước theo px của khối cha) - 60px*/
++    padding: 30px;
++    background-color: #ffffff;
++    margin-bottom: 30px;
++}
++.item{
++    float:left;
++    width: 100%;
++    background-color: aquamarine;
++}
+\ No newline at end of file
+Index: Css/dbnnbinca.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Css/dbnnbinca.css b/Css/dbnnbinca.css
+new file mode 100644
+--- /dev/null	(date 1626337680027)
++++ b/Css/dbnnbinca.css	(date 1626337680027)
+@@ -0,0 +1,111 @@
++body{
++    font-family: "Times New Roman";
++}
++.section-right a{
++    color: #6abe45;
++    font-size: 14px;
++    font-weight: 700;
++}
++.large-photo{
++    zoom: 2;
++    margin-left: 50px;
++}
++.content{
++    font-size: 18px;
++    padding-top: 35px;
++}
++
++.top{
++    width: 100%;
++    height: 1300px;
++    border: 1px solid #c1ccd4;
++    padding-left: 20px;
++    padding-top: 20px;
++}
++.top2{
++    width: 100%;
++    height: 450px;
++    background-color: #f2f2f2;
++    padding-top: 20px;
++    padding-left: 20px;
++    padding-right: 20px;
++    margin-top: 20px;
++}
++.comment{
++    width: 100%;
++    height: 90px;
++}
++.nhap{
++    height: 35px;
++    width: 250px;
++    margin-left: 8px;
++}
++.phanhoi{
++    background-color: #6abe45;
++    color: white;
++    width: 140px;
++    height: 35px;
++    font-size: 19px;
++    text-align: center;
++    margin-top: 25px;
++    margin-left: 323px;
++}
++
++
++
++/*css2*/
++input{
++    width: 69%;
++    height: 40px;
++    border-radius: 5px;
++    margin-bottom: 30px;
++    border: 2px solid #6abe45;
++
++}
++.danhsach{
++    width: 100%;
++    height: 5000px;
++    border: 1px solid #c1ccd4;
++    margin-top: -11px;
++}
++.bvm{
++    width: 100%;
++    height: 65px;
++    background-color:  #6abe45;
++    color: white;
++    border-top-right-radius: 10px;
++    border-top-left-radius: 10px;
++    line-height: 65px;
++    font-size: 22px;
++    font-weight: 700;
++    padding-left: 19px;
++}
++.danhsach{
++    width: 100%;
++    height: 350px;
++    color: #00dfff;
++}
++.danhsach li{
++    list-style: none;
++    font-size: 19px;
++    margin-bottom: 14px;
++    margin-left: -22px;
++
++
++}
++.danhsach a{
++    color: #000000;
++    padding-left: -10px;
++}
++.danhsach a:hover{
++    color:  #6abe45;
++
++}
++
++.danhsach img{
++    float: left;
++    margin-right: 10px;
++}
++.danhsach ul{
++    margin-top: 10px;
++}
+\ No newline at end of file
+Index: gioithieu.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/gioithieu.html b/gioithieu.html
+new file mode 100644
+--- /dev/null	(date 1626339765440)
++++ b/gioithieu.html	(date 1626339765440)
+@@ -0,0 +1,83 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++  <meta charset="UTF-8">
++  <title>Danh ba nha nong</title>
++  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
++  <link rel="stylesheet" href="Css/gioithieu.css" type="text/css"/>
++</head>
++<body>
++<h1 style="text-align: center">DANH BẠ NHÀ NÔNG</h1>
++<section class="col-md-12">
++  <div class="container">
++    <div class="section-left col-md-3">
++      <input type="text" name="Tìm Kiếm" placeholder="Tìm kiếm sản phẩm..." >
++      <button type="button">Tìm Kiếm</button>
++
++
++      <p class="bvm">Bài Viết Mới</p>
++      <div class="danhsach">
++        <ul>
++          <li><img src="Images/BtNhom/nam_van_chi_2.jpg" width="50px" height="50px"><a href="#">Nấm vân chi có tác dụng gì</a> </li>
++          <li><img src="Images/BtNhom/cha-com-an-voi-gi-ngon-768x768.jpg" width="50px" height="50px"><a href="#">Chả cốm ăn với gì ngon</a> </li>
++          <li><img src="Images/BtNhom/com-tuoi-moc-an-768x768.jpg" width="50px" height="50px"><a href="#">Cốm tươi làm món gì ngon</a> </li>
++          <li><img src="Images/BtNhom/mang-tay-xao-toi-768x431.jpg" width="50px" height="50px"><a href="#">Cách làm măng tây xào tỏi</a> </li>
++          <li><img src="Images/BtNhom/sup-lo-xanh-nau-mon-gi-2.jpg" width="50px" height="50px"><a href="#">Súp lơ xanh nấu món gì ngon</a> </li>
++
++        </ul>
++      </div>
++
++    </div>
++    <div class="section-right col-md-9">
++      <div class="gioithieu">
++
++      <h1 style="text-align: center;">VỀ CHÚNG TÔI</h1>
++        <b>Kính gởi: QUÝ CƠ QUAN – XÍ NGHIỆP – TRƯỜNG HỌC –NHÀ HÀNG</b>
++        <p>Công ty TNHH MTV Thực Phẩm Miền Tây hiện là nhà cung cấp chuyên nghiệp các mặt hàng Lương thực & Thực phẩm tươi sống
++        từ các nguồn hàng hóa dồi dào và chất lượng tại các chợ thực phẩm đầu mối trên toàn quốc. Chúng tôi chuyên cung cấp sỉ
++        rau củ quả, thịt các loại cho nhà hàng, xí nghiệp, tiệc cưới, trường học, khách sạn, căn tin... thực phẩm do chúng tôi
++        cung cấp luôn được đảm bảo chất lượng vệ sinh an toàn thực phẩm, nguồn gốc rõ ràng với giá cả hợp lý nhất.</p>
++
++        <p>Hơn thế nữa, với kinh nghiệm nhiều năm hoạt động trong lĩnh vực kinh doanh thực phẩm tươi sống, cùng với dịch vụ
++          trọn gói và giao hàng tận nơi, Thực Phẩm Miền Tây tin tưởng sẽ đem đến cho Quý khách hàng những sản phẩm CHẤT LƯỢN
++          G – AN TOÀN – VỆ SINH & TIẾT KIỆM ; đảm bảo mang lại sự hài lòng và an tâm tuyệt đối cho Quý khách hàng.</p>
++
++        <p>Sản phẩm chúng tôi cung cấp:</p>
++
++        <p- Rau – Củ - Quả sạch các loại<br/>
++
++        - Trứng gia cầm công nghiệp<br/>
++
++        - Thủy - hải sản các loại<br/>
++
++        - Các loại thịt</p>
++
++        <p>Ngoài ra chúng tôi có thể đáp ứng các nhu cầu:</p>
++
++        <p>- Hợp đồng cung cấp thực phẩm, bình ổn giá trong tháng<br/>
++
++        - Giao hàng tận nơi trên địa bàn TPHCM, đúng giờ và địa điểm của khách hàng yêu cầu<br/>
++
++        - Miễn phí sơ chế các mặt hàng tươi sống.<br/>
++
++        - Cam kết đổi trả hàng kém chất lượng.</p>
++
++        <p>Chúng tôi chân thành cảm ơn sự quan tâm và mong muốn được hợp tác lâu dài với Quý khách hàng.</p>
++
++        <p>Khi có nhu cầu mua hàng, vui lòng liên hệ với chúng tôi để được tư vấn và hỗ trợ theo địa chỉ liên lạc sau:</p>
++
++        <b>Công ty TNHH MTV Thực Phẩm Miền Tây</b><br/>
++
++        <b>Địa chỉ</b> : 861/72/11 Trần Xuân Soạn, P. Tân Hưng, Quận 7, TP. HCM.<br/>
++
++        <b>Điện thoại</b> : 0909 632 112 - 0906 305 212 (Ms Hồng)<br/>
++
++        <b>Email</b> : mekongfreshfood@gmail.com
++    </div>
++    </div>
++
++
++  </div>
++</section>
++</body>
++</html>
+\ No newline at end of file
+Index: Css/gioithieu.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Css/gioithieu.css b/Css/gioithieu.css
+new file mode 100644
+--- /dev/null	(date 1626338934140)
++++ b/Css/gioithieu.css	(date 1626338934140)
+@@ -0,0 +1,71 @@
++body{
++    font-family: "Times New Roman";
++}
++.gioithieu{
++    width: 100%;
++    height: 920px;
++    border: 1px solid #c1ccd4;
++    background-color: #f2f2f2;
++    font-size: 20px;
++    padding-left: 20px;
++    border-radius: 15px;
++}
++
++
++
++/*css2*/
++input{
++    width: 69%;
++    height: 40px;
++    border-radius: 5px;
++    margin-bottom: 30px;
++    border: 2px solid #6abe45;
++
++}
++.danhsach{
++    width: 100%;
++    height: 5000px;
++    border: 1px solid #c1ccd4;
++    margin-top: -11px;
++}
++.bvm{
++    width: 100%;
++    height: 65px;
++    background-color:  #6abe45;
++    color: white;
++    border-top-right-radius: 10px;
++    border-top-left-radius: 10px;
++    line-height: 65px;
++    font-size: 22px;
++    font-weight: 700;
++    padding-left: 19px;
++}
++.danhsach{
++    width: 100%;
++    height: 350px;
++    color: #00dfff;
++}
++.danhsach li{
++    list-style: none;
++    font-size: 19px;
++    margin-bottom: 14px;
++    margin-left: -22px;
++
++
++}
++.danhsach a{
++    color: #000000;
++    padding-left: -10px;
++}
++.danhsach a:hover{
++    color:  #6abe45;
++
++}
++
++.danhsach img{
++    float: left;
++    margin-right: 10px;
++}
++.danhsach ul{
++    margin-top: 10px;
++}
+\ No newline at end of file
+Index: AssignmentJs2.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/AssignmentJs2.html b/AssignmentJs2.html
+new file mode 100644
+--- /dev/null	(date 1625192251970)
++++ b/AssignmentJs2.html	(date 1625192251970)
+@@ -0,0 +1,41 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>AssignmentJs2</title>
++    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
++
++</head>
++<body>
++<section class="col-md-12">
++    <div class="container">
++        <div class="col-md-6">
++            <div class="form">
++                <label>Nhập vào một con số</label>
++                <input type="number" min="0" max="99" name="luckynumber" id="luckynumber">
++                <button type="button" class="btn btn-primary">Submit</button>
++            </div>
++        </div>
++    </div>
++</section>
++
++
++
++<script type="text/javascript" src="Js/AssignmentJs2.js">
++    // var count=5;
++    // var count1;
++    // var random=math.random()*100;
++    // random=parseInt(random);
++    // var loto= setInterval(function (){
++    //     var n = prompt("IDOL Cho Xin Một Con Số!");
++    //     n=parseInt(n);
++    //     if(!isNaN(n)){
++    //         if(random==n){
++    //             count1++;
++    //         }
++    //     }
++    //
++    // },1000);
++</script>
++</body>
++</html>
+\ No newline at end of file
+Index: ../CodeThay/demo-object.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CodeThay/demo-object.html b/../CodeThay/demo-object.html
+new file mode 100644
+--- /dev/null	(date 1624594914917)
++++ b/../CodeThay/demo-object.html	(date 1624594914917)
+@@ -0,0 +1,10 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Title</title>
++</head>
++<body>
++<script type="text/javascript"src="js/demo.js"
++</body>
++</html>
+\ No newline at end of file
+Index: ../CodeThay/js/demo.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CodeThay/js/demo.js b/../CodeThay/js/demo.js
+new file mode 100644
+--- /dev/null	(date 1624594942428)
++++ b/../CodeThay/js/demo.js	(date 1624594942428)
+@@ -0,0 +1,74 @@
++for (var i=0;i<10;i++){
++    humans.push(Object.create(obj1));
++}
++
++// http://cdn.23h.com.vn/image/dtvn.png
++//  /images/dtvn.png
++/*
++ Định nghĩa 1 dạng object cho sản phẩm gồm các thông tin: tên, ảnh sp, mô tả, giá, số lượng, danh mục (đối tượng)
++ và các hành vi:
++ - thêm sp vao gio hàng ( có 1 biến cart là 1 array bên ngoài)
++ - xóa sp khỏi giỏ hàng
++ - tăng số lượng sản phẩm
++ - điều chỉnh giá sp
++ */
++*/
++
++var cart = [];
++var product = {
++    id:1,
++    name:"Product Name",
++    image: "/images/product.png",
++    description: "Product Description",
++    price: 0,
++    qty: 1,
++    category:{
++        name: "Category Name",
++        image: "/images/category.png"
++    },
++    addToCart: function (){
++        // can cho this vao trong cart
++        // nếu sản phẩm đã có trong giỏ hàng thì sao
++        // nếu sản phẩm hết hàng thì sao
++        if(this.qty == 0){ // het hang
++            console.log("Out of stock");
++        }else{
++            if(checkCart(this)){/// kt xem sp da co trong gio hang hay chua
++                for(var i=0;i<cart.length;i++){
++                    if(cart[i].id == this.id){
++                        cart[i].qty++;
++                        this.qty = this.qty -1;
++                    }
++                }
++            }else{
++                cart.push(this);
++                this.qty = this.qty-1;
++            }
++        }
++    },
++    removeFromCart: function (){
++        if(checkCart(this)){
++            for(var i=0;i<cart.length;i++){
++                if(cart[i].id == this.id){
++                    this.qty = this.qty + cart[i].qty;
++                    cart.splice(i,1);
++                }
++            }
++        }
++    },
++    changeStock: function (num){
++        this.qty += num;
++        this.qty = this.qty > 0?this.qty:0; // để ko có chuyện số lượng bị âm
++    },
++    changePrice: function (change){
++        this.price += change;
++        this.price = this.price > 0? this.price:0;
++    }
++};
++
++function checkCart(p){
++    for(var i=0;i<cart.length;i++){
++        if(cart[i].id == p.id) return true;
++    }
++    return false;
++}
+\ No newline at end of file
+Index: ../CodeThay/demojs.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CodeThay/demojs.html b/../CodeThay/demojs.html
+new file mode 100644
+--- /dev/null	(date 1625024364173)
++++ b/../CodeThay/demojs.html	(date 1625024364173)
+@@ -0,0 +1,105 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++  <meta charset="UTF-8">
++  <title>Demo JS</title>
++</head>
++<body>
++<h1>Demo Javascript</h1>
++<script type="text/javascript">
++  // code javascript (js) viet tai day
++  var x;// khai bao bien x
++  // nhom du lieu: Number, string, array, object
++  x = 15.14; // x la 1 number
++  console.log(x);
++  x = "xin chao";
++  console.log(x);
++  x = x + 5;// xin chao5
++  console.log(x);
++  var y = 20;
++  y = y + 5; // 25
++  console.log(y);
++  /*
++      number +number -> number
++      number + string -> string
++      string + string -> string
++   */
++  console.log("Xin chao, day la lop T2104E, so hoc sinh:"+25+" hoc sinh");
++
++  if(y>20){
++    console.log("y > 20");
++  }else{
++    console.log("y < 20");
++  }
++  for(var i=0;i<20;i++){
++    console.log("gia tri cua i la: "+i); // print
++  }
++
++  var arr = []; // khai bao 1 mang - ko giới hạn số lượng phần tử
++  arr[0] =1001;
++  arr[1]= "xin chao"; // ko ràng buộc kiểu dữ liệu các phần tử
++  arr[2] = "12";// nguy hiểm -> đây là string chứ ko phải number
++  arr[2]+= 15;// 27 -> "1215"
++  console.log(arr[0]);
++  console.log(arr[2]);
++  console.log(arr);
++  arr[3] = [1,2,3,4];// ko giới hạn các chiều của mảng ( mảng 2 chiều)
++  arr[4] = ["xin chao",1,2, [1,2,3]];// mang 3 chiều
++
++  var arr2 = [];
++  for(var i=0;i<20;i++){
++    // arr2[i] = i*i;
++    arr2.push(17);// them 1 phan tu co gia tri i*i vao mang
++  }
++  arr2.push(555);// cho pt vào cuối danh sách // chi muc 20
++  arr2[22] = 99;// ok
++  arr2.push(777); // chi muc: 23
++  console.log(arr2);
++  console.log(arr2[21]);//undefined - chua dinh nghia
++  var c = tinhtong(5,6);
++  var d = tinhtong("aaa",6);
++  console.log("c = "+c);
++  function tinhtong(a,b){
++    return a+b;
++  }
++  var h = hamgido("aa",7);
++  function hamgido(a,b){ // a b la kieu du lieu gi ko biet
++    /*
++    day la code logic cua ham
++    return cai gi do
++     */
++    // muon hieu dc thi
++    // 1, phai la nguoi viet
++    // 2, doc ca doan code dai de hieu logic
++  }
++
++  function binhphuong(a){
++    console.log(a*a);
++  }
++  //
++  // alert("Cấm trẻ em dưới 18 tuổi vào trang web, chúng tôi không chịu trách nhiệm về nội dung!");
++  //
++  // var kt = confirm("Bạn chắc chắn đồng ý nộp bài thi?"); // true -> nhấn ok   false  -> nhấn cancel
++  // if(kt){
++  //     alert("chucs mừng, bạn đã vượt qua kỳ thi!");
++  // }else{
++  //     alert("Rất tiếc, vui lòng sang A4 đăng ký thi lại!");
++  // }
++
++  var s = prompt("Nhập tuổi của bạn vào đây:");// tra ve 1 string
++  // var t = parseInt(s);
++  // /*
++  //     18 -> 18
++  //     18A8 -> 18 // dừng lại khi gặp ký tự
++  //     A188 -> not a number (NAN)
++  //  */
++  // // if(t != NaN && t<18 ){
++  // //   window.location.href = "https://24h.com.vn";
++  // // }else{
++  // //   alert("Vui long tiep tuc vao trang web")
++  // // }
++  // // console.log(t);
++  // console.log()
++</script>
++</body>
++</html>
+\ No newline at end of file
+Index: chiasebiquyet.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/chiasebiquyet.html b/chiasebiquyet.html
+new file mode 100644
+--- /dev/null	(date 1624761364252)
++++ b/chiasebiquyet.html	(date 1624761364252)
+@@ -0,0 +1,239 @@
++<!DOCTYPE html>
++<html lang="en" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
++<head>
++    <meta charset="UTF-8">
++    <title>Lucky:Chuyên đặc sản trái cây Việt Nam</title>
++    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
++    <link rel="stylesheet" href="Css/chiasebiquyet.css" type="text/css"/>
++    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap" rel="stylesheet">
++</head>
++<body>
++<header class="header section">
++    <div class="container">
++        <div class="intruction">
++            <div class="head1"><a href="#">Đăng ký-Đăng nhập</a> </div>
++            <div class="head1"><a href="#">Liên hệ</a> </div>
++            <div class="head1">Chia sẻ : </div>
++            <div class="head1"><a href="#"> <img src="Images/imagegroup/as4.fbicon.png"/></a></div>
++            <div class="head1"><a href="#"> <img src="Images/imagegroup/as4.intericon.png"/></a> </div>
++            <div class="head1"><a href="#"> <img src="Images/imagegroup/as4.insicon.png"/> </a></div>
++            <div class="head1"><a href="#"> <img src="Images/imagegroup/as4.glsearchicon.png"/></a> </div>
++        </div>
++        <div class="claer"></div>
++        <div class="logo">
++            <div class="logo1">
++                <a href="#">
++                    <p id="p1">LucKy Fruit</p>
++                    <p id="p2">Luôn song hành cùng bạn</p>
++                </a>
++            </div>
++            <div class="logo1 lo2"><a class="lga" href="#"><img src="Images/imagegroup/as4.fbicon.png"/></a>
++                <a class="lga" href="#">hotline </br>0976xxxx</a>
++            </div>
++            <div class="logo1 lo2">
++                <a class="lga" href="#"><img src="Images/imagegroup/as4.fbicon.png"/> </a>
++                <a class="lga" href="#">đổi trả hàng</br>cho đến khi bạn hài lòng </a>
++
++            </div>
++            <div class="logo1 lo2">
++                <a class="lga" href="#"><img src="Images/imagegroup/as4.fbicon.png"/> </a>
++                <a class="lga" href="#">sản phẩm lucky fruit</br> đẳng cấp thế giới</a>
++            </div>
++        </div>
++        <div class="claer"></div>
++        <div class="selec">
++            <div class="selec1"><a href="#"><img src="Images/imagegroup/as4.intericon.png"/> </a> </div>
++            <div class="selec1"><a href="#">Giới thiệu</a> </div>
++            <div class="selec1"><a href="#">sản phẩm</a></div>
++            <div class="selec1"><a href="#">tin tức</a></div>
++            <div class="selec1"><a href="#">chia sẻ bí quyết</a></div>
++            <div class="selec1"><a href="#">khuyến mại</a></div>
++            <div class="selec1"><a href="#">trái cây mùa</a></div>
++            <div class="selec1"><a href="#">đặt hàng online</a></div>
++        </div>
++        <div class="bg"><a href="#"><img src="Images/imagegroup/traicaybg.jpg"/></a> </div>
++    </div>
++</header>
++<section>
++    <div class="container">
++        <h2>CHIA SẺ BÍ QUYẾT</h2>
++    </div>
++    <div class="container">
++
++    <div class="khoilon col-md-12">
++            <div class="row">
++                <div class="anh1 col-md-4">
++                    <p>
++                        <a href="#"><img src="Images/imagegroup/cach-lua-chon-rau-cu-qua-an-toan-53b87024.jpg" width="270px">
++                        </a>
++                    </p>
++
++                    <a href="#">Cách lựa chọn rau quả an toàn
++                    </a>
++                    <p>Một nguyên tắc đơn giản cho các bà nội trợ khi đi chợ là hãy chọn các
++                        loại rau trái theo mùa vì chúng dễ phát triển mà không cần nhiều
++                        phân bón, hóa chất bảo vệ thực vật hay ...
++                    </p>
++                </div>
++                <div class="anh1 col-md-4">
++                    <p>
++                        <a href="#"><img src="Images/imagegroup/meo-hay-bao-quan-rau-cu-qua-tuoi-nua-thang-lien-01-6c54c623.jpg" width="270px">
++                        </a>
++                    </p>
++
++                    <a href="#">Mẹo hay bảo quản rau củ tươi ngon <br> nửa tháng liền
++                    </a>
++                    <p>Chỉ cần thay đổi một số thói quen thông thường, bạn sẽ không phải vứt bỏ
++                        những thực phẩm có lợi ích cho sức khỏe. Một số mẹo hay sau chắc chắn
++                        sẽ giúp các bà nội trợ thoải mái ...
++                    </p>
++                </div>
++                <div class="anh1 col-md-4">
++                    <p>
++                        <a href="#"><img src="Images/imagegroup/cac-loai-rau-cu-giam-can-nhanh-bat-ngo-2579e74b.jpg" width="270px">
++                        </a>
++                    </p>
++
++                    <a href="#">Các loại rau củ giảm cân nhanh <br> bất ngờ
++                    </a>
++                    <p> Ngày càng có nhiều phương pháp giảm cân khoa học, công nghệ tiên tiến, đôi khi
++                        chúng ta lại quên rằng có những thứ rất đơn giản trong cuộc sống ngay bên cạnh
++                        chúng ta. Những thực phẩm tưởng chừng ...
++                    </p>
++                </div>
++
++            </div>
++
++
++
++            <div class="row">
++                <div class="anh1 col-md-4">
++                    <p>
++                        <a href="#"><img src="Images/imagegroup/cach-chon-rau-cu-qua-ngon-02-6544d473.jpg" width="270px">
++                        </a>
++                    </p>
++
++                    <a href="#">Cách chọn rau củ quả ngon
++                    </a>
++                    <p>Một vài mẹo vặt giúp các mẹ, các chị đi chợ có cách chọn rau củ quả
++                        ngon để phục vụ cho gia đình, đảm bảo dinh dưỡng và sức khỏe. Cùng
++                        xem một số bí quyết chọn rau củ ...
++
++                    </p>
++                </div>
++                <div class="anh1 col-md-4">
++                    <p>
++                        <a href="#"><img src="Images/imagegroup/meo-rua-sach-moi-loai-rau-01-1e2984ca.jpg" width="270px">
++                        </a>
++                    </p>
++
++                    <a href="#">Mẹo rửa sạch mọi loại rau đúng cách <br>và sai lầm khi rửa rau
++                    </a>
++                    <p>Mỗi loại rau có nguy cơ nhiễm bẩn khác nhau vì thế cần có những cách rửa khác
++                        nhau để rau sạch và loại bỏ phần nào hóa chất (nếu có).
++                    </p>
++                </div>
++                <div class="anh1 col-md-4">
++                    <p>
++                        <a href="#"><img src="Images/imagegroup/cach-xao-rau-that-xanh-9ece0da2.jpg" width="270px">
++                        </a>
++                    </p>
++
++                    <a href="#">Mách bạn cách xào rau thật xanh
++                    </a>
++                    <p>Rau xào, món ăn tưởng như đơn giản nhưng để có một đĩa rau
++                        xào thật xanh và giòn như ngoài tiệm, bạn không thể thiếu những bí quyết.
++                    </p>
++                </div>
++
++            </div>
++
++
++
++            <div class="row">
++                <div class="anh1 col-md-4">
++                    <p>
++                        <a href="#"><img src="Images/imagegroup/phan-biet-rau-cu-quaTrung-Quoc-va-Viet-Nam-32cc5161.jpg" width="270px">
++                        </a>
++                    </p>
++
++                    <a href="#"> Thuộc ngay bí kíp phân biệt 10 loại  <br> rau củ quả
++                        Trung Quốc và Việt Nam
++                    </a>
++                    <p>(VTC News) - Nếu đang phân vân không biết đâu là rau củ quả Trung Quốc,
++                        đâu là rau củ quả Việt Nam, bạn có thể dựa vào những đặc điểm dưới đây.
++                    </p>
++                </div>
++                <div class="anh1 col-md-4">
++                    <p>
++                        <a href="#"><img src="Images/imagegroup/trong-xa-lach-xoan-ngay-thu-4,5-trieu-93c65c34.jpg" width="270px">
++                        </a>
++                    </p>
++
++                    <a href="#">Trồng xà lách xoăn, ngày thu 4,5 triệu
++                    </a>
++                    <p>Anh Dương Văn Huấn, xã Lộc Ngãi, huyện Bảo Lâm (Lâm Đồng) đầu tư 800 triệu đồng
++                        làm 800m2 nhà kính trồng rau thủy canh. Hiện, mỗi ngày anh thu hoạch 100kg
++                        rau xà lách với giá bán từ 35.000-45.000 ...
++                    </p>
++                </div>
++                <div class="anh1 col-md-4">
++                    <p>
++                        <a href="#"><img src="Images/imagegroup/cach-lua-chon-rau-cu-qua-an-toan-53b87024.jpg" width="270px">
++                        </a>
++                    </p>
++
++                    <a href="#">Cách lựa chọn rau quả an toàn
++                    </a>
++                    <p>Một nguyên tắc đơn giản cho các bà nội trợ khi đi chợ là hãy chọn các
++                        loại rau trái theo mùa vì chúng dễ phát triển mà không cần nhiều
++                        phân bón, hóa chất bảo vệ thực vật hay ...
++                    </p>
++                </div>
++
++            </div>
++
++        </div>
++    </div>
++</section>
++
++
++
++<footer class="footer section">
++    <div class="container">
++        <div class="footer1">
++            <p> Thông tin công ty</p>
++            <ul>
++                <li><a href="#"> Giới thiệu công ty</a></li>
++                <li><a href="#"> Tuyển dụng</a></li>
++                <li><a href="#"> Thông tin công ty</a></li>
++                <li><a href="#"> Email:luckyfruit@gmail.com</a></li>
++            </ul>
++        </div>
++        <div class="footer1">
++            <p> chính sách công ty</p>
++            <ul>
++                <li><a href="#"> Chính sách Thẻ KHTT</a></li>
++                <li><a href="#"> Chính sách viết hóa đơn VAT 5%</a></li>
++                <li><a href="#"> Chính sách bảo mật thông tin cá nhân</a></li>
++                <li><a href="#"> Hướng dẫn khách hàng sử dụng thẻ quà tặng</a></li>
++                <li><a href="#">Hướng dẫn cho khách hàng sử dụng Evoucher</a></li>
++            </ul>
++        </div>
++        <div class="footer1">
++            <p> Quy định khách hàng</p>
++            <ul>
++                <li><a href="#"> Quy định đổi trả sản phẩm</a></li>
++                <li><a href="#"> Hướng dẫn đặt hàng và thanh toán</a></li>
++            </ul>
++        </div>
++        <div class="claer"></div>
++        <div class="end">
++            <p id="pp1">Công ty Lucky fruit</p>
++            <p id="pp2">Địa chỉ đăng ký : số 8 Tôn Thất Thuyết,Nam Từ Liêm,Hà Nội</p>
++        </div>
++    </div>
++    <hr>
++</footer>
++</body>
++</html>
+\ No newline at end of file
+Index: Css/chiasebiquyet.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Css/chiasebiquyet.css b/Css/chiasebiquyet.css
+new file mode 100644
+--- /dev/null	(date 1624761790253)
++++ b/Css/chiasebiquyet.css	(date 1624761790253)
+@@ -0,0 +1,247 @@
++
++.khoilon p{
++    width: 270px;
++    text-align: left;
++}
++.title{
++    width: 270px;
++
++}
++.khoilon a{
++    font-size: 18px;
++    color: #1b8030;
++    font-weight: 700;
++}
++section h2{
++    text-align: center;
++    color: #ffffff;
++    width:75%;
++    height: 60px;
++    line-height: 60px;
++    background-color: #1b8030;
++    border-radius: 10px;
++    margin: 50px 142px 35px;
++}
++section img:hover{
++    transform: scale(1.15);
++}
++section img{
++    border-radius: 15px;
++}
++
++.row{
++    margin-left: 54px;
++}
++
++
++/*css của trung*/
++
++
++
++
++
++
++body{
++    font-size: 14px;
++    color:#333333;
++    font-family: 'Roboto', sans-serif;
++    font-weight: 400;
++    background-color: whitesmoke;
++}
++
++.container{
++    width: 1200px;
++    margin-left: auto;
++    margin-right: auto;
++    float: none;
++}
++.intruction{
++    float: right;
++    border-bottom: 1px solid grey;
++}
++.intruction img{
++    width: 20px;
++    height: 20px;
++    vertical-align: top;
++}
++.intruction .head1{
++    float: left;
++    margin: 20px 15px 10px 0;
++}
++.head1 a{
++    text-decoration: none;
++    padding-right: 5px;
++    border-right: 1px solid grey;
++    color: black;
++}
++.head1 a:hover{
++    color: red;
++}
++.claer{
++    clear: both;
++}
++.logo{
++    margin: 30px 0 20px 0;
++}
++.logo .logo1{
++    float: left;
++    width: 23%;
++    margin: 10px;
++}
++.logo img{
++    width: 40px;
++    height: 40px;
++}
++.lga{
++    float:left;
++    margin: 5px;
++    color: green;
++}
++.lga:hover{
++    color: deeppink;
++    text-shadow: 1px 1px 2px purple;
++}
++.logo a{
++    text-decoration: none;
++    text-transform: uppercase;
++}
++#p1,#p2{
++    text-align: center;
++    color: blueviolet;
++}
++#p1{
++    font-size: 50px;
++    font-weight: bold;
++    text-shadow: 2px 2px 0px purple;
++}
++.lo2{
++    padding-top: 50px;
++}
++.selec{
++    border-top: 1px solid green;
++    border-bottom: 1px solid green;
++    height: 60px;
++}
++.selec img{
++    width: 20px;
++    height: 20px;
++}
++.selec .selec1{
++    float: left;
++    width: 10%;
++    margin:20px 10px;;
++}
++.selec a{
++    text-decoration: none;
++    font-size: 15px;
++    font-weight: bold;
++    text-transform: capitalize;
++    padding-right: 5px;
++    border-right: 1px solid grey;
++}
++.selec a:hover{
++    color: green;
++    text-shadow: 1px 1px 0 green;
++}
++.bg img{
++    width: 100%;
++    height: 300px;
++    margin-top: 20px;
++}
++/*.main0 p{*/
++/*    margin:40px 0px 30px 0 ;*/
++/*    text-transform: capitalize;*/
++/*    font-weight: bold;*/
++/*    font-size: 30px;*/
++/*    text-align: center;*/
++/*    color: red;*/
++/*    text-shadow: 1px 1px 0 red;*/
++/*}*/
++/*.main2{*/
++/*    float: left;*/
++/*    width: 20%;*/
++/*    margin: 25px;*/
++/*    border: 1px solid darkgrey;*/
++/*}*/
++/*.main1 img{*/
++/*    width: 100%;*/
++/*    height: 250px;*/
++/*}*/
++/*.main1 a{*/
++/*    width: 100%;*/
++/*    text-decoration: none;*/
++/*    text-align: center;*/
++/*    color: forestgreen;*/
++/*}*/
++/*.main1 a:hover{*/
++/*    text-decoration: underline;*/
++/*}*/
++/*.main2 div{*/
++/*    text-align: center;*/
++/*    font-size: 20px;*/
++/*    margin:20px 0 ;*/
++/*    font-weight: bold;*/
++/*    text-transform: capitalize;*/
++/*}*/
++/*.main2:hover{*/
++/*    box-shadow: 6px -6px 4px darkgrey;*/
++/*}*/
++/*.gia{*/
++/*    color: red;*/
++/*}*/
++/*.datmua{*/
++/*    color: purple;*/
++/*    width: 60%;*/
++/*    margin-left: 5%;*/
++/*    padding: 10px;*/
++/*    border: 1px solid darkgrey;*/
++/*}*/
++/*.datmua:hover{*/
++/*    box-shadow: 6px -6px 4px darkgrey;*/
++/*    background-color: lightcoral;*/
++/*}*/
++/*.main1{*/
++/*    margin: 20px;*/
++/*}*/
++hr{
++    margin-left: 40px;
++    width: 1200px;
++    border: 1px solid grey;
++}
++.footer1{
++    float: left;
++    width: 30%;
++    margin: 15px;
++    border: 1px solid whitesmoke;
++}
++.footer1 p{
++    text-transform: uppercase;
++    margin:30px;
++    font-weight: bold;
++    font-size: 15px;
++}
++.footer1 a{
++    text-decoration: none;
++    color: black;
++    margin:20px 0px 20px 05px;
++}
++.footer1 a:hover{
++    color: red;
++}
++.footer1 li{
++    margin: 10px 0px 10px 35px;
++}
++.end{
++    width: 50%;
++    margin-left: 25%;
++    text-align: center;
++}
++#pp1{
++    text-transform: uppercase;
++    margin: 10px 0;
++    font-weight: bold;
++    font-size: 20px;
++}
++#pp2{
++    margin-bottom: 20px;
++}
+Index: ../CodeTest/DemoOwnCarousel.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CodeTest/DemoOwnCarousel.html b/../CodeTest/DemoOwnCarousel.html
+new file mode 100644
+--- /dev/null	(date 1625721155617)
++++ b/../CodeTest/DemoOwnCarousel.html	(date 1625721155617)
+@@ -0,0 +1,43 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>own</title>
++  <link rel="stylesheet" href="csscodetest/owl.carousel.min.css" type="text/css">
++    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
++
++</head>
++<body>
++<div class="container">
++
++
++<div class="owl-carousel owl-theme">
++  <div class="item"> <img src="Images/labs3avatar.jpg"></div>
++  <div class="item"> <img src="Images/labs2.png"></div>
++
++</div>
++</div>
++
++
++<script type="text/javascript" src="js/jquery3.6.0.min.js"></script>
++<script type="text/javascript" src="js/owl.carousel.min.js"></script>
++<script type="text/javascript">
++  $('.owl-carousel').owlCarousel({
++    loop:true,
++    margin:30,
++    nav:true,
++    responsive:{
++      0:{
++        items:1
++      },
++      600:{
++        items:3
++      },
++      1000:{
++        items:5
++      }
++    }
++  })
++</script>
++</body>
++</html>
+\ No newline at end of file
+Index: ../CodeTest/demo_event.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CodeTest/demo_event.html b/../CodeTest/demo_event.html
+new file mode 100644
+--- /dev/null	(date 1624972667756)
++++ b/../CodeTest/demo_event.html	(date 1624972667756)
+@@ -0,0 +1,17 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>EVENT</title>
++</head>
++<body>
++<h1>DEMO EVENT</h1>
++<input placeholder="Nhap vao so phut can dem nguoc">
++var reward[
++
++]
++<br/>
++<button type="button">Nhấn để quay</button>
++<script src="js/demo_event.js"></script>
++</body>
++</html>
+\ No newline at end of file
+Index: ../CodeTest/js/demo_event.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CodeTest/js/demo_event.js b/../CodeTest/js/demo_event.js
+new file mode 100644
+--- /dev/null	(date 1624972688350)
++++ b/../CodeTest/js/demo_event.js	(date 1624972688350)
+@@ -0,0 +1,3 @@
++var reward[
++
++]
+\ No newline at end of file
+Index: bincavn.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/bincavn.html b/bincavn.html
+new file mode 100644
+--- /dev/null	(date 1626339765426)
++++ b/bincavn.html	(date 1626339765426)
+@@ -0,0 +1,94 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Danh ba nha nong</title>
++    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
++    <link rel="stylesheet" href="Css/dbnnbinca.css" type="text/css"/>
++</head>
++<body>
++<h1 style="text-align: center">DANH BẠ NHÀ NÔNG</h1>
++<section class="col-md-12">
++    <div class="container">
++        <div class="section-left col-md-3">
++            <input type="text" name="Tìm Kiếm" placeholder="Tìm kiếm sản phẩm..." >
++            <button type="button">Tìm Kiếm</button>
++
++
++            <p class="bvm">Bài Viết Mới</p>
++            <div class="danhsach">
++                <ul>
++                    <li><img src="Images/BtNhom/nam_van_chi_2.jpg" width="50px" height="50px"><a href="#">Nấm vân chi có tác dụng gì</a> </li>
++                    <li><img src="Images/BtNhom/cha-com-an-voi-gi-ngon-768x768.jpg" width="50px" height="50px"><a href="#">Chả cốm ăn với gì ngon</a> </li>
++                    <li><img src="Images/BtNhom/com-tuoi-moc-an-768x768.jpg" width="50px" height="50px"><a href="#">Cốm tươi làm món gì ngon</a> </li>
++                    <li><img src="Images/BtNhom/mang-tay-xao-toi-768x431.jpg" width="50px" height="50px"><a href="#">Cách làm măng tây xào tỏi</a> </li>
++                    <li><img src="Images/BtNhom/sup-lo-xanh-nau-mon-gi-2.jpg" width="50px" height="50px"><a href="#">Súp lơ xanh nấu món gì ngon</a> </li>
++
++                </ul>
++            </div>
++
++        </div>
++        <div class="section-right col-md-9">
++            <div class="top">
++                <a href="#">DANH BẠ NHÀ NÔNG</a>
++                <h3>Binca Việt Nam</h3>
++                <p>POSTED ON 15 THÁNG NĂM, 2019 BY MONA</p>
++                <img class="large-photo" src="Images/BtNhom/binca-vietnam-logo_large-300x232.png">
++                <p class="content">Chính thức bước vào thị trường Việt Nam vào năm 1998, sau hơn 7 năm tìm tòi và
++                    nghiên cứu, Binca cho ra mắt nông trại cá Pangasius basa hữu cơ đầu tiên và
++                    duy nhất trên thế giới- Nông trại hữu cơ Binca (2005).<b>Binca Việt Nam</b> là mô
++                    hình nuôi tôm, cá theo tiêu chuẩn hữu cơ tại An Giang và Cà Mau. Đây là công
++                    ty đầu tiên tại Việt Nam ngoài chứng nhận hữu cơ EU còn có chứng nhận Naturland
++                    và Fair Trade. Đây là 2 chứng nhận về việc hỗ trợ phát triển sinh kế của người
++                    nông dân ở vùng nuôi trồng, cụ thể như sau:<br/>
++
++                    *Không lạm dụng trẻ em, khuyến khích trẻ em đến trường.<br/>
++                    *Phát triển quan hệ công bằng giữa người mua và người nuôi trồng.<br/>
++                    *Hỗ trợ sinh kế lâu dài để người nuôi trồng có thể tự lực phát triển và tránh tình trạng
++                    đói nghèo tiếp diễn.<br/>
++                    <b>Sản phẩm thế mạnh của Binca</b> là hàng thủy hải sản hữu cơ, các sản phẩm này đã được bán
++                    tại các siêu thị organic của Thụy Sĩ, Thụy Điển, Đức,…Đây là những quốc gia có quy
++                    chuẩn nghiêm ngặt về các sản phẩm organic.<br/>
++
++                    Các sản phẩm thủy hải sản của Binca như cá basa, tôm sú…được nuôi trồng trong môi
++                    trường tự nhiên, không sử dụng thức ăn công nghiệp, thuốc kháng sinh, thuốc tăng
++                    trưởng hay bất kì chất tăng trưởng nào khác trong quá trình nuôi.<br/>
++
++                    Tôm, cá được trồng theo tiêu chuẩn hữu cơ EU của Châu Âu nên cho ra sản phẩm săn chắc,
++                    có vị ngọt tự nhiên, dễ dàng chế biến những món ngon tùy khẩu vị mỗi người và cung cấp
++                    chất dinh dưỡng dồi dào cho cơ thể người dùng.<br/>
++
++                    <b>Vùng sản xuất:</b> An Giang, Cà Mau.<br/>
++
++                    <b>Sản phẩm cung cấp:</b> Tôm sú, Cá Basa.</p>
++
++            </div>
++            <div class="top2">
++                <h3>Trả lời</h3>
++                <p>Email của bạn sẽ không được hiển thị công khai. Các trường bắt buộc được đánh dấu *</p>
++                <h3>Bình luận</h3>
++                <input class="comment" type="text" name="description"><br><br>
++                <div class="row">
++
++                <div class="info col-md-12">
++
++                <input class=" nhap col-md-4" type="text" name="Tên" placeholder="Tên" >
++                <input class=" nhap col-md-4" type="email" name="Email " placeholder="Email " >
++                <input class=" nhap col-md-4" type="text" name="Trang web" placeholder="Trang web" >
++                </div>
++                </div>
++
++
++                <button class="phanhoi" type="button">PHẢN HỒI</button>
++
++
++
++
++            </div>
++
++
++        </div>
++    </div>
++</section>
++</body>
++</html>
+\ No newline at end of file
+Index: ../CodeTest/data/products.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CodeTest/data/products.json b/../CodeTest/data/products.json
+new file mode 100644
+--- /dev/null	(date 1625886969596)
++++ b/../CodeTest/data/products.json	(date 1625886969596)
+@@ -0,0 +1,34 @@
++[
++  {
++    "image":"Images/labs2.png",
++    "name": "Product 1"
++  },
++  {
++    "image":"images/labs3avatar.jpg",
++    "name": "Product 2"
++  },
++  {
++    "image":"images/labs3avatar.jpg",
++    "name": "Product 3"
++  },
++  {
++    "image":"images/labs3avatar.jpg",
++    "name": "Product 4"
++  },
++  {
++    "image":"images/labs3avatar.jpg",
++    "name": "Product 5"
++  },
++  {
++    "image":"images/labs3avatar.jpg",
++    "name": "Product 6"
++  },
++  {
++    "image":"images/labs3avatar.jpg",
++    "name": "Product 7"
++  },
++  {
++    "image":"images/labs3avatar.jpg",
++    "name": "Product 8"
++  }
++]
+\ No newline at end of file
+Index: ../CodeTest/js/demojqueryajax.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CodeTest/js/demojqueryajax.js b/../CodeTest/js/demojqueryajax.js
+new file mode 100644
+--- /dev/null	(date 1625894898775)
++++ b/../CodeTest/js/demojqueryajax.js	(date 1625894898775)
+@@ -0,0 +1,26 @@
++function loadMore() {
++    var p = [];// ti nua se lay tu
++    $.ajax({ //
++        url: "data/todayspecial.json",
++        method:"GET",
++        success:function (rs){ // callback
++            p = rs.data;
++            var row = $("#row");
++            for (var i = 0; i < p.length; i++) {
++                var ct = "<div class=\"item\">\n" +
++                    "            <img src=\"" + p[i].image + "\"/>\n" +
++                    "            <h2>" + p[i].name + "</h2>\n" +
++                    "            <h3>" + p[i].description+ "</h3>\n" +
++                    "            <h1>" + p[i].price+ "</h1>\n" +
++
++
++
++                    "        </div>"; // ct chi la 1 string thoi
++                row.append(ct); // row.html(row.html() +ct)
++                // row.prepend(ct) // row.html(ct+row.html());
++            }
++        }
++
++    });
++
++}
+\ No newline at end of file
+Index: ../nodejs/index.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../nodejs/index.js b/../nodejs/index.js
+new file mode 100644
+--- /dev/null	(date 1626357156381)
++++ b/../nodejs/index.js	(date 1626357156381)
+@@ -0,0 +1,17 @@
++var express= require("express");
++var app=express();//tạo 1 ứng dụng từ express module
++var port=5000;//cổng số bn tự chọn khác 5000 cũng đc
++app.listen(port,function (){
++    console.log("server is running...");
++});
++app.get("/",function (req,res){ // trang chu
++        // res.send("<html><head><title</head></html>"); // html- chỉ là 1 chuỗi đối với máy chủ
++        res.sendFile(__dirname+"/public/assignment3.html");  //__dirname -> xuất cho chúng ta 1 chuỗi đường dẫn chính xác trên máy tính đến thư mục này
++    });
++app.get("/ke-toan",function (req,res){
++    res.sendFile(__dirname+"/public/AssignmentJs3_1.html");
++
++});
++app.get("/gioithieu",function (req,res){
++   res.sendFile(__dirname+"/public/gioithieu.html");
++});
+\ No newline at end of file
+Index: ../CodeTest/demojquery2.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CodeTest/demojquery2.html b/../CodeTest/demojquery2.html
+new file mode 100644
+--- /dev/null	(date 1625885914452)
++++ b/../CodeTest/demojquery2.html	(date 1625885914452)
+@@ -0,0 +1,20 @@
++
++<!DOCTYPE html>
++<html lang="en">
++<head>
++  <meta charset="UTF-8">
++  <title>Demo JS 3</title>
++  <link rel="stylesheet" href="css/assignment3.css" type="text/css"/>
++</head>
++<body>
++<h1 id="title">Danh sách sản phẩm</h1>
++<div class="grid">
++  <div class="row" id="row">
++
++  </div>
++</div>
++<button type="button" onclick="loadMore()">Load more</button>
++<script type="text/javascript" src="js/jquery3.6.0.min.js"></script>
++<script type="text/javascript" src="js/demojqueryajax.js"></script>
++</body>
++</html> 
+\ No newline at end of file
+Index: ../CodeTest/data/todayspecial.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CodeTest/data/todayspecial.json b/../CodeTest/data/todayspecial.json
+new file mode 100644
+--- /dev/null	(date 1625894732867)
++++ b/../CodeTest/data/todayspecial.json	(date 1625894732867)
+@@ -0,0 +1,47 @@
++{
++  "message": "success",
++  "data": [
++    {
++      "id": 23,
++      "name": "Pepsi không Calories vị chanh_dạng lon (Pepsi Zero",
++      "image": "https://dscnnwjxnwl3f.cloudfront.net/media/catalog/product/cache/584039753b87a8d227764e04fc461e3e/z/2/z2054228259338_f983ac7b886fccbe1772ccc551532ca2_1.jpg",
++      "description": "ggsgds",
++      "price": 18000
++    },
++    {
++      "id": 8,
++      "name": "Burger Bò Teriyaki (Teriyaki Burger)",
++      "image": "https://dscnnwjxnwl3f.cloudfront.net/media/catalog/product/cache/584039753b87a8d227764e04fc461e3e/t/e/teriyaki-burger_4.png",
++      "description": "",
++      "price": 31000
++    },
++    {
++      "id": 21,
++      "name": "Cơm Gà Nướng Góc Tư (Grilled Chicken Quater Leg Rice)",
++      "image": "https://dscnnwjxnwl3f.cloudfront.net/media/catalog/product/cache/584039753b87a8d227764e04fc461e3e/c/_/c_m_g_n_ng_g_c_t_.png",
++      "description": "",
++      "price": 58000
++    },
++    {
++      "id": 29,
++      "name": "Mì sốt kem gà viên (Scream Spaghetti)",
++      "image": "https://dscnnwjxnwl3f.cloudfront.net/media/catalog/product/cache/584039753b87a8d227764e04fc461e3e/m/_/m_s_t_kem_g_vi_n.jpg",
++      "description": "",
++      "price": 45000
++    },
++    {
++      "id": 5,
++      "name": "Burger Cá (Fish Burger)",
++      "image": "https://dscnnwjxnwl3f.cloudfront.net/media/catalog/product/cache/584039753b87a8d227764e04fc461e3e/b/u/burger_fish_5.png",
++      "description": "",
++      "price": 34000
++    },
++    {
++      "id": 11,
++      "name": "Gà nướng - 3 miếng (Grilled Chicken - 3 Pcs)",
++      "image": "https://dscnnwjxnwl3f.cloudfront.net/media/catalog/product/cache/584039753b87a8d227764e04fc461e3e/g/_/g_n_ng_s_t_hs_s_cay_3_6_9_mi_ng.jpg",
++      "description": "",
++      "price": 107000
++    }
++  ]
++} 
+\ No newline at end of file
+Index: ../CodeTest/demojquery.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CodeTest/demojquery.html b/../CodeTest/demojquery.html
+new file mode 100644
+--- /dev/null	(date 1625818564495)
++++ b/../CodeTest/demojquery.html	(date 1625818564495)
+@@ -0,0 +1,51 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++  <meta charset="UTF-8">
++  <title>Demo JQuery</title>
++</head>
++<body>
++<h1 id="title">Tiêu đề bài báo</h1>
++<button type="button" onclick="hidePg();">Hide</button>
++<button type="button" onclick="showPg();">Show</button>
++<button type="button" onclick="onOff();">ON-OFF</button>
++<p class="pg">Bệnh nhân 17947 (60 tuổi) khai cách nay khoảng 1 tuần có tiếp xúc với một người ở ấp Hội Xuân, xã An Hiệp, huyện Châu Thành. Từ ngày 17 đến 29-6, bệnh nhân ở tại nhà. Ngày 30-6, bệnh nhân 17947 bị ho, sốt nên được cháu đưa đi khám bệnh ở phòng khám tư nhân ở Cái Tàu Hạ, huyện Châu Thành. Đến ngày 1-7, bệnh nhân 17947 đến bệnh viện Cái Tàu Hạ để xin test nhanh Covid-19 và được hướng dẫn bữa sau quay lại. Sáng 2-7, cháu tiếp tục chở bệnh nhân đến Bệnh viện Đa khoa Xuyên Á (Vĩnh Long) để làm test nhanh và cho kết quả dương tính SARS-CoV-2.</p>
++<p class="pg">Bệnh nhân 17948 (31 tuổi): Ngày 5-6, bệnh nhân từ quận 12, TP HCM về Đồng Tháp, có đi ăn với bạn và sau đó ở nhà. Sáng 2-7, bệnh nhân tự đi xe máy từ nhà đến thẳng Bệnh viện Đa khoa Xuyên Á làm xét nghiệm test nhanh và có kết quả dương tính.</p>
++<p class="pg">Bệnh nhân 17949 (66 tuổi) khai từ ngày 18-6 đến nay chỉ ở nhà, không tiếp xúc với người từ tỉnh khác về, không tham gia đám, tiệc đông người. Ngày 30-6, bệnh nhân đi bộ qua đám tang ở cùng ấp. Tại đám tang, bệnh nhân không tiếp xúc với ai, sau khi viếng xong thì đi bộ về nhà. Sáng 1-7, bệnh nhân đến Bệnh viện Đa khoa Xuyên Á làm xét nghiệm, kết quả dương tính.</p>
++
++<script type="text/javascript" src="js/jquery3.6.0.min.js"></script>
++<script type="text/javascript">
++  var t = $("#title");// tao ra 1 object jquery
++  t.css({
++    "color":"red",
++    "font-size":"30px"
++  });
++  t.text("hello everybody");
++  t.html("<i>Hello everybody</i>");
++
++  // var ps = $("p"); <=>  getELementsByTagName
++  var ps = $(".pg"); // là 1 mảng object nhưng có 1 đối tượng đại diện
++  ps.css({
++    "color":"orange"
++  })
++
++  function hidePg(){
++    ps.hide();
++    ps.fadeOut(5000);
++    ps.slideUp(10000);
++  }
++
++  function showPg(){
++    ps.show();
++    // ps.fadeIn(500);
++    ps.slideDown(300);
++  }
++
++  function onOff(){
++    ps.toggle();
++    ps.fadeToggle();
++    ps.slideToggle();
++  }
++</script>
++</body>
++</html>
+\ No newline at end of file
+Index: ../CodeTest/AssignmentJS3.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CodeTest/AssignmentJS3.html b/../CodeTest/AssignmentJS3.html
+new file mode 100644
+--- /dev/null	(date 1625901320160)
++++ b/../CodeTest/AssignmentJS3.html	(date 1625901320160)
+@@ -0,0 +1,35 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Assignment JS 3</title>
++    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
++</head>
++<body>
++<section class="col-md-12">
++    <div class="container">
++        <h1 id="food-name">Tên món ăn</h1>
++        <img class="img-thumbnail" src="#" id="food-image"/>
++        <h2 id="food-price">gia tien</h2>
++        <p id="food-desc">Mo ta mon an</p>
++    </div>
++</section>
++<script type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
++<script type="text/javascript">
++    $.ajax({
++        url:"https://foodgroup.herokuapp.com/api/food/1",
++        method:"GET",
++        success:function (rs){
++            var name = rs.data.name;
++            var img = rs.data.image;
++            var price = rs.data.price;
++            var des = rs.data.description;
++            $("#food-name").text(name); // var f = $("#food-name");f.text(name):
++            $("#food-image").attr("src",img);// chuyeenr gia tri src bang img
++            $("#food-price").text(price);
++            $("#food-desc").text(des);
++        }
++    });
++</script>
++</body>
++</html>
+\ No newline at end of file
+Index: ../CodeTest/demo js bootstrap.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CodeTest/demo js bootstrap.html b/../CodeTest/demo js bootstrap.html
+new file mode 100644
+--- /dev/null	(date 1625718067646)
++++ b/../CodeTest/demo js bootstrap.html	(date 1625718067646)
+@@ -0,0 +1,121 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>demo js bootstrap</title>
++  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
++
++</head>
++<body>
++<!-- Button trigger modal -->
++<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
++    Launch demo modal
++</button>
++
++<!-- Modal -->
++<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
++    <div class="modal-dialog" role="document">
++        <div class="modal-content">
++            <div class="modal-header">
++                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
++                <h4 class="modal-title" id="myModalLabel">Modal title</h4>
++            </div>
++            <div class="modal-body">
++
++                    <div class="form-group">
++                        <label>Email</label>
++                        <input class="form-control" type="text" name="email"/>
++                    </div>
++                    <div class="form-group">
++                        <label>Password</label>
++                        <input class="form-control" type="password" name="password">
++                    </div>
++            </div>
++            <div class="modal-footer">
++                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
++                <button type="button" class="btn btn-primary">Save changes</button>
++            </div>
++        </div>
++    </div>
++</div>
++
++<div class="dropdown">
++    <button id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
++        Dropdown trigger
++        <span class="caret"></span>
++    </button>
++    <ul class="dropdown-menu" aria-labelledby="dLabel">
++        ...
++    </ul>
++</div>
++
++<div>
++
++    <!-- Nav tabs -->
++    <ul class="nav nav-tabs" role="tablist">
++        <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Home</a></li>
++        <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Profile</a></li>
++        <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">Messages</a></li>
++        <li role="presentation"><a href="#settings" aria-controls="settings" role="tab" data-toggle="tab">Settings</a></li>
++    </ul>
++
++    <!-- Tab panes -->
++    <div class="tab-content">
++        <div role="tabpanel" class="tab-pane active" id="home">t</div>
++        <div role="tabpanel" class="tab-pane" id="profile">r</div>
++        <div role="tabpanel" class="tab-pane" id="messages">u</div>
++        <div role="tabpanel" class="tab-pane" id="settings">ng</div>
++    </div>
++
++</div>
++
++
++<div class="container">
++<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
++    <!-- Indicators -->
++    <ol class="carousel-indicators">
++        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
++        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
++        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
++    </ol>
++
++    <!-- Wrapper for slides -->
++    <div class="carousel-inner" role="listbox">
++        <div class="item active">
++            <img src="Images/labs3avatar.jpg" alt="...">
++            <div class="carousel-caption">
++                ...
++            </div>
++        </div>
++        <div class="item">
++            <img src="Images/labs2.png" alt="...">
++            <div class="carousel-caption">
++                ...
++            </div>
++        </div>
++        ...
++    </div>
++
++    <!-- Controls -->
++    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
++        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
++        <span class="sr-only">Previous</span>
++    </a>
++    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
++        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
++        <span class="sr-only">Next</span>
++    </a>
++</div>
++</div>
++
++
++
++<script src="js/jquery3.6.0.min.js"></script>
++<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
++<script type="text/javascript">
++    $('.carousel').carousel({
++        interval: 2000
++    })
++</script>
++</body>
++</html>
+\ No newline at end of file
+Index: AssignmentJs5.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/AssignmentJs5.html b/AssignmentJs5.html
+new file mode 100644
+--- /dev/null	(date 1626079983730)
++++ b/AssignmentJs5.html	(date 1626079983730)
+@@ -0,0 +1,30 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>AS JS5</title>
++</head>
++<body>
++<h1 id="temp"><sup>o</sup>C</h1>
++<h1>Humidity<span id="hum"></span>%</h1>
++<h1>Wind<span id="wind"></span>km/h</h1>
++<h1 id="city"></h1>
++
++
++<script type="text/javascript" src="Js/jquery3.6.0.min.js"></script>
++<script type="text/javascript">
++    $.ajax({
++        url:"http://api.openweathermap.org/data/2.5/forecast?q=Hanoi,vietnam&appid=09a71427c59d38d6a34f89b47d75975c&units=metric",
++        method:"GET",
++        success: function (rs){
++            for (var i = 0; i < rs.list.length; i++) {
++
++                $("#temp").text(rs.list[i].dt);
++            }
++
++            $("#city").text(rs.city.name+","+rs.city.country);
++        }
++    })
++</script>
++</body>
++</html>
+\ No newline at end of file
+Index: AssignmentJs3_1.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/AssignmentJs3_1.html b/AssignmentJs3_1.html
+new file mode 100644
+--- /dev/null	(date 1626339765408)
++++ b/AssignmentJs3_1.html	(date 1626339765408)
+@@ -0,0 +1,73 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Danh ba nha nong</title>
++    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
++    <link rel="stylesheet" href="Css/DanhBaNhaNong.css" type="text/css"/>
++</head>
++<body>
++<h1 style="text-align: center">DANH BẠ NHÀ NÔNG</h1>
++<section class="col-md-12">
++    <div class="container">
++        <div class="section-left col-md-3">
++            <input type="text" name="Tìm Kiếm" placeholder="Tìm kiếm sản phẩm..." >
++            <button type="button">Tìm Kiếm</button>
++
++
++                <p class="bvm">Bài Viết Mới</p>
++            <div class="danhsach">
++                <ul>
++                    <li><img src="Images/BtNhom/nam_van_chi_2.jpg" width="50px" height="50px"><a href="#">Nấm vân chi có tác dụng gì</a> </li>
++                    <li><img src="Images/BtNhom/cha-com-an-voi-gi-ngon-768x768.jpg" width="50px" height="50px"><a href="#">Chả cốm ăn với gì ngon</a> </li>
++                    <li><img src="Images/BtNhom/com-tuoi-moc-an-768x768.jpg" width="50px" height="50px"><a href="#">Cốm tươi làm món gì ngon</a> </li>
++                    <li><img src="Images/BtNhom/mang-tay-xao-toi-768x431.jpg" width="50px" height="50px"><a href="#">Cách làm măng tây xào tỏi</a> </li>
++                    <li><img src="Images/BtNhom/sup-lo-xanh-nau-mon-gi-2.jpg" width="50px" height="50px"><a href="#">Súp lơ xanh nấu món gì ngon</a> </li>
++
++                </ul>
++            </div>
++
++        </div>
++        <div class="section-right col-md-9">
++            <ul>
++                <li> <img src="Images/BtNhom/binca-vietnam-logo_large-300x232.png" width="230px" height="230px">
++                    <a href="#">Binca Việt Nam</a>
++                    <p>Chính thức bước vào thị trường Việt Nam vào năm 1998, sau hơn 7 ...</p>
++                </li>
++                <li> <img src="Images/BtNhom/upload_2a9f0c359ba448c785490ea0c0ed3dc0_large-300x181.jpg" width="230px" height="230px">
++                    <a href="#">Antofu Việt Nam</a>
++                    <p>Antofu Việt Nam là công ty được đầu tư với 100% nguồn...</p>
++
++                </li>
++
++                <li> <img src="Images/BtNhom/upload_183f92f8231a4662af441d7826971e1e_large-300x181.jpg" width="230px" height="230px">
++                    <a href="#">An Mộc Farm</a>
++                    <p>An Mộc Farm – Trang trại thuần nông chuyên cung cấp 100%...</p>
++
++                </li>
++
++                <li> <img src="Images/BtNhom/viet_nature_logotype_color_on_white2-300x179.png" width="230px" height="230px">
++                    <a href="#">Thiên Nhiên Việt</a>
++                    <p>Công ty TNHH Xuất Nhập Khẩu Thiên Nhiên Việt chuyên về sản xuất...</p>
++
++                </li>
++
++                <li> <img src="Images/BtNhom/logo-1-300x144.png" width="230px" height="230px">
++                    <a href="#">Thực Phẩm Tân Minh</a>
++                    <p>Công ty TNHH Thực phẩm Tâm Minh có sản xuất Bột nêm Ngưu...</p>
++
++                </li>
++
++                <li> <img src="Images/BtNhom/binca-vietnam-logo_large-300x232.png" width="230px" height="230px">
++                    <a href="#">Binca Việt Nam</a>
++                    <p>Chính thức bước vào thị trường Việt Nam vào năm 1998...</p>
++
++                </li>
++
++
++            </ul>
++        </div>
++    </div>
++</section>
++</body>
++</html>
+\ No newline at end of file
+Index: ../CodeThay/demolayout.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CodeThay/demolayout.html b/../CodeThay/demolayout.html
+new file mode 100644
+--- /dev/null	(date 1623896399774)
++++ b/../CodeThay/demolayout.html	(date 1623896399774)
+@@ -0,0 +1,100 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Demo Layout</title>
++    <link rel="preconnect" href="https://fonts.gstatic.com">
++    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap" rel="stylesheet">
++    <link rel="stylesheet" href="cssfile/layout.css" type="text/css"/>
++</head>
++<body>
++<header class="header section">
++    <div class="container">
++        <div class="logo">
++            <a href="#">Genesis Framework</a>
++            <p>Support HTML5 & Responsive Design</p>
++        </div>
++        <div class="toplinks">
++            <ul>
++                <li><a href="#">Sabmple</a> </li>
++                <li><a href="#">Layout</a> </li>
++                <li><a href="#">Template</a> </li>
++                <li><a href="#">Contact</a> </li>
++            </ul>
++        </div>
++    </div>
++</header>
++<nav class="nav section">
++    <div class="container">
++        <ul class="menu">
++            <li><a href="#">Category #1</a> </li>
++            <li><a href="#">Category #2</a> </li>
++            <li><a href="#">Category #3</a> </li>
++            <li><a href="#">Category #4</a> </li>
++        </ul>
++        <div class="mernu-right">
++            <a href="#">Get Genesis now</a>
++        </div>
++    </div>
++</nav>
++<section class="main section">
++    <div class="container">
++        <article class="content">
++            <h1>Thêm 5 nhân viên viện Nhiệt đới mắc Covid-19</h1>
++            <p class="author">May 1, 2016 by <a href="#">Brian Gadner</a> </p>
++            <img src="hinhanh/labs3avatar.jpg">
++            <p class="entry">
++                Sức khỏeTin tứcThứ ba, 15/6/2021, 18:04 (GMT+7)
++                Thêm 5 nhân viên viện Nhiệt đới mắc Covid-19
++                Giám đốc Sở Y tế TP HCM chiều 15/6 công bố Bệnh viện Bệnh Nhiệt đới TP HCM ghi nhận thêm 5 nhân viên mắc Covid-19, nâng tổng số ca nhiễm lên 60.
++
++                Giám đốc Sở Y tế Nguyễn Tấn Bỉnh cho biết thông tin trên tại cuộc họp ban chỉ đạo phòng, chống Covid-19, chiều 15/6. Đây là những nhân viên nằm ở khu vực ngoài, không phải khu điều trị.
++
++                Như vậy đến nay Bệnh viện Bệnh Nhiệt đới TP HCM ghi nhận 60 nhân viên dương tính. Những trường hợp này được điều tra truy vết, xét nghiệm trong số khoảng 1.000 nhân viên ghi nhận, sau khi phát hiện nhân viên phòng công nghệ thông tin của bệnh viện dương tính, ngày 11/6.
++
++                Lực lượng chức năng xét nghiệm 107 trường hợp F1, phát hiện 7 ca dương tính, là những người trong ba gia đình.
++
++                Bệnh viện còn 63 bệnh nhân đang điều trị nội trú ở các khoa khác, tất cả đã có kết quả âm tính nCoV. Khoảng 80 nhân viên y tế phụ trách điều trị Covid-19 không tiếp xúc với các nhân viên khoa phòng khác và cũng đã có kết quả xét nghiệm âm tính nCoV.
++
++                Khu vực có nhân viên bị lây nhiễm là khu vực hành chính, trong đó có một người cư trú tại thị trấn Hóc Môn, huyện Hóc Môn và một người cư trú tại Block A1 chung cư Ehome 3 ở Bình Tân (nơi đang có ổ dịch. "Do đó, đánh giá ban đầu có thể nguồn lây từ ngoài đi vào bệnh viện", ông Bỉnh cho biết.
++            </p>
++        </article>
++        <aside class="sidebar">
++            <div class="b1">
++
++            </div>
++            <div class="boxfirst">
++                <h2>Email Newsletter</h2>
++                <p>Khu vực có nhân viên bị lây nhiễm là khu vực
++                    Khu vực có nhân viên bị lây nhiễm là khu vực
++                </p>
++                <div class="boxfirst1">
++                    <p>Your Name</p>
++                </div>
++                <div class="boxfirst2">
++                    <p>Your Mail</p>
++                </div>
++                <div class="boxfirst3">
++                    <p>Subcribe</p>
++                </div>
++            </div>
++            <div class="boxsocial">
++                <h3>Social</h3>
++                <img src="hinhanh/social.png" width="100" height="100">
++            </div>
++            <div class="boxsearch">
++                <h3>Search</h3>
++            </div>
++
++        </aside>
++    </div>
++</section>
++<footer class="footer section">
++    <div class="container">
++        <a href="#">aaa</a>
++        <p id="b"></p>
++        <p class="c"></p>
++    </div>
++</footer>
++</body>
++</html>
+\ No newline at end of file
+Index: Css/DanhBaNhaNong.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Css/DanhBaNhaNong.css b/Css/DanhBaNhaNong.css
+new file mode 100644
+--- /dev/null	(date 1626337625056)
++++ b/Css/DanhBaNhaNong.css	(date 1626337625056)
+@@ -0,0 +1,88 @@
++
++
++
++
++
++
++body{
++    font-family: "Times New Roman";
++}
++input{
++    width: 69%;
++    height: 40px;
++    border-radius: 5px;
++    margin-bottom: 30px;
++    border: 2px solid #6abe45;
++
++}
++.danhsach{
++    width: 100%;
++    height: 5000px;
++    border: 1px solid #c1ccd4;
++    margin-top: -11px;
++}
++.bvm{
++    width: 100%;
++    height: 65px;
++    background-color:  #6abe45;
++    color: white;
++    border-top-right-radius: 10px;
++    border-top-left-radius: 10px;
++    line-height: 65px;
++    font-size: 22px;
++    font-weight: 700;
++    padding-left: 19px;
++}
++.danhsach{
++    width: 100%;
++    height: 350px;
++    color: #00dfff;
++}
++.danhsach li{
++    list-style: none;
++    font-size: 19px;
++    margin-bottom: 14px;
++    margin-left: -22px;
++
++
++}
++.danhsach a{
++    color: #000000;
++    padding-left: -10px;
++
++}
++.danhsach a:hover{
++    color:  #6abe45;
++
++}
++
++.danhsach img{
++    float: left;
++    margin-right: 10px;
++}
++.danhsach ul{
++    margin-top: 10px;
++}
++
++
++.section-right li{
++    width: 235px;
++    height: 330px;
++    border: 1px solid #c1ccd4;
++    float: left;
++    margin-right: 15px;
++    list-style: none;
++    margin-bottom: 40px;
++    text-align: center;
++
++}
++.section-right a {
++    color: #6abe45;
++    font-size: 22px;
++    font-weight: 700;
++}
++.section-right li:hover{
++    box-shadow: #c1ccd4;
++}
++
++
