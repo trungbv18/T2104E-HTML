@@ -1,0 +1,31 @@
+.title{
+    color: red;
+}
+.title:hover{
+    color: blue;
+}
+
+input{
+    margin-top: 19px;
+}
+label{
+    margin-top: 21px;
+
+}
+.khung1{
+    background-color: #c1ccd4;
+}
+.khung2{
+    background-color: #c1ccd4;
+    margin-top: 50px;
+}
+.qua{
+    margin-top: 23px;
+}
+.bt1{
+    text-align: center;
+    margin-left: 150px;
+}
+.vt{
+    float: left;
+}
